@@ -173,213 +173,294 @@ AI-Enabled-Student-Admission-System/
 │   ├── studenterror46.png
 │   ├── dynamicformadmission47.png
 ```
-# 📸 Project Screenshots
-
 ### 1. Login Page
 Displays the Salesforce login page.
 
-![Login Page](Outputs%20Screenshots/login1.png)
-
+![Login Page](login1.png)
 
 ### 2. Hands-on Org
 Displays the Salesforce Developer Org.
 
-![Hands-on Org](Outputs%20Screenshots/handsonorg2.png)
-
+![Hands-on Org](handsonorg2.png)
 
 ### 3. Home Page
 Salesforce Home Page after login.
 
-![Home Page](Outputs%20Screenshots/home3.png)
-
+![Home Page](home3.png)
 
 ### 4. Admission Object
-Admission custom object.
 
-![Admission](Outputs%20Screenshots/admission4.png)
+![Admission Object](admission4.png)
+
+---
 
 ### 5. Admission Details
-Admission object details.
 
-![Admission Details](Outputs%20Screenshots/admissiondetails5.png)
+![Admission Details](admissiondetails5.png)
+
+---
 
 ### 6. Admission Fields
-Admission custom fields.
 
-![Admission Fields](Outputs%20Screenshots/admissionfields6.png)
+![Admission Fields](admissionfields6.png)
+
+---
 
 ### 7. Admission Fields Example
 
-![Admission Fields Example](Outputs%20Screenshots/admissionfieldsex7.png)
+![Admission Fields Example](admissionfieldsex7.png)
 
-### 8. Admission Page Layout
+---
 
-![Page Layout](Outputs%20Screenshots/pagelayout8.png)
+### 8. Page Layout
+
+![Page Layout](pagelayout8.png)
+
+---
 
 ### 9. Lightning Record Page
 
-![Lightning Record Page](Outputs%20Screenshots/lightingpage9.png)
+![Lightning Record Page](lightingpage9.png)
 
-### 10. Custom Buttons
+---
 
-![Buttons](Outputs%20Screenshots/buttons10.png)
+### 10. Buttons
+
+![Buttons](buttons10.png)
+
+---
 
 ### 11. Validation Rules
 
-![Validation Rules](Outputs%20Screenshots/validationrules11.png)
+![Validation Rules](validationrules11.png)
 
-### 12. Validation Rule Example
+---
 
-![Validation Rule Example](Outputs%20Screenshots/validationrulesexample12.png)
+### 12. Validation Rules Example
+
+![Validation Rules Example](validationrulesexample12.png)
+
+---
 
 ### 13. Student Page Layout
 
-![Student Page Layout](Outputs%20Screenshots/studentpagelayout13.png)
+![Student Page Layout](studentpagelayout13.png)
+
+---
 
 ### 14. Student Object
 
-![Student](Outputs%20Screenshots/student14.png)
+![Student Object](student14.png)
+
+---
 
 ### 15. Student Fields
 
-![Student Fields](Outputs%20Screenshots/studentfields15.png)
+![Student Fields](studentfields15.png)
+
+---
 
 ### 16. Student Fields Example
 
-![Student Fields Example](Outputs%20Screenshots/studentfieldsexample16.png)
+![Student Fields Example](studentfieldsexample16.png)
+
+---
 
 ### 17. Student Page Layout Example
 
-![Student Page Layout](Outputs%20Screenshots/studentpagelayout17.png)
+![Student Page Layout Example](studentpagelayout17.png)
+
+---
 
 ### 18. Student Validation Rules
 
-![Student Validation Rules](Outputs%20Screenshots/studentvalidationrules18.png)
+![Student Validation Rules](studentvalidationrules18.png)
 
-### 19. Student Validation Rule Example
+---
 
-![Student Validation Rule Example](Outputs%20Screenshots/studentvalidationrulesexample19.png)
+### 19. Student Validation Rules Example
+
+![Student Validation Rules Example](studentvalidationrulesexample19.png)
+
+---
 
 ### 20. Course Object
 
-![Course](Outputs%20Screenshots/course20.png)
+![Course Object](course20.png)
+
+---
 
 ### 21. Course Details
 
-![Course Details](Outputs%20Screenshots/coursedetails21.png)
+![Course Details](coursedetails21.png)
+
+---
 
 ### 22. Course Fields
 
-![Course Fields](Outputs%20Screenshots/coursefields22.png)
+![Course Fields](coursefields22.png)
+
+---
 
 ### 23. Course Fields Example
 
-![Course Fields Example](Outputs%20Screenshots/coursefieldsexample23.png)
+![Course Fields Example](coursefieldsexample23.png)
+
+---
 
 ### 24. Course Validation Rule
 
-![Course Validation Rule](Outputs%20Screenshots/coursevalidationrule24.png)
+![Course Validation Rule](coursevalidationrule24.png)
+
+---
 
 ### 25. Course Validation Rule Example
 
-![Course Validation Rule Example](Outputs%20Screenshots/coursevalidationruleexample25.png)
+![Course Validation Rule Example](coursevalidationruleexample25.png)
+
+---
 
 ### 26. Admission Flow
 
-![Admission Flow](Outputs%20Screenshots/admissionflow26.png)
+![Admission Flow](admissionflow26.png)
+
+---
 
 ### 27. Admission Flow Example
 
-![Admission Flow Example](Outputs%20Screenshots/admissionflowexample27.png)
+![Admission Flow Example](admissionflowexample27.png)
+
+---
 
 ### 28. Tabs
 
-![Tabs](Outputs%20Screenshots/tabs28.png)
+![Tabs](tabs28.png)
+
+---
 
 ### 29. Users
 
-![Users](Outputs%20Screenshots/users28.png)
+![Users](users28.png)
+
+---
 
 ### 30. User Details
 
-![User Details](Outputs%20Screenshots/usersopen29.png)
+![User Details](usersopen29.png)
+
+---
 
 ### 31. Duplicate Rules
 
-![Duplicate Rules](Outputs%20Screenshots/duplicaterules30.png)
+![Duplicate Rules](duplicaterules30.png)
 
-### 32. Matching Rules
+---
 
-![Matching Rules](Outputs%20Screenshots/matchingrule31.png)
+### 32. Matching Rule
+
+![Matching Rule](matchingrule31.png)
+
+---
 
 ### 33. Approval Process
 
-![Approval Process](Outputs%20Screenshots/approvalprocess32.png)
+![Approval Process](approvalprocess32.png)
+
+---
 
 ### 34. Approval Process Configuration
 
-![Approval Process Configuration](Outputs%20Screenshots/approvalprocess33.png)
+![Approval Process Configuration](approvalprocess33.png)
+
+---
 
 ### 35. Email Template
 
-![Email Template](Outputs%20Screenshots/emailtemplate34.png)
+![Email Template](emailtemplate34.png)
+
+---
 
 ### 36. Profiles
 
-![Profiles](Outputs%20Screenshots/profiles35.png)
+![Profiles](profiles35.png)
+
+---
 
 ### 37. Manager Profile
 
-![Manager Profile](Outputs%20Screenshots/profilesmanager36.png)
+![Manager Profile](profilesmanager36.png)
 
-### 38. Admission Officer Profile
+---
 
-![Admission Officer Profile](Outputs%20Screenshots/profilesofficer37.png)
+### 38. Officer Profile
+
+![Officer Profile](profilesofficer37.png)
+
+---
 
 ### 39. Roles
 
-![Roles](Outputs%20Screenshots/roles38.png)
+![Roles](roles38.png)
+
+---
 
 ### 40. Role Hierarchy
 
-![Role Hierarchy](Outputs%20Screenshots/roles39.png)
+![Role Hierarchy](roles39.png)
 
-### 41. Project Application
+---
 
-![Project Application](Outputs%20Screenshots/projectapp40.png)
+### 41. Project App
 
-### 42. Student Application Example
+![Project App](projectapp40.png)
 
-![Student Application](Outputs%20Screenshots/appstudentexample41.png)
+---
 
-### 43. Course Application
+### 42. Student App Example
 
-![Course Application](Outputs%20Screenshots/appcourse41.png)
+![Student App Example](appstudentexample41.png)
 
-### 44. Course Application Example
+---
 
-![Course Application Example](Outputs%20Screenshots/appcourseexample42.png)
+### 43. Course App
 
-### 45. Admission Application
+![Course App](appcourse41.png)
 
-![Admission Application](Outputs%20Screenshots/appadmission43.png)
+---
 
-### 46. Admission Application Example
+### 44. Course App Example
 
-![Admission Application Example](Outputs%20Screenshots/appadmissionexample44.png)
+![Course App Example](appcourseexample42.png)
+
+---
+
+### 45. Admission App
+
+![Admission App](appadmission43.png)
+
+---
+
+### 46. Admission App Example
+
+![Admission App Example](appadmissionexample44.png)
+
+---
 
 ### 47. Approval History
 
-![Approval History](Outputs%20Screenshots/appapprovalhistory45.png)
+![Approval History](appapprovalhistory45.png)
 
-### 48. Student Error Validation
+---
 
-![Student Error](Outputs%20Screenshots/studenterror46.png)
+### 48. Student Error
 
-### 49. Dynamic Forms
+![Student Error](studenterror46.png)
 
-![Dynamic Forms](Outputs%20Screenshots/dynamicformadmission47.png)
+---
 
+### 49. Dynamic Form
+
+![Dynamic Form](dynamicformadmission47.png)
 # 🚀 How to Run
 
 1. Log in to your Salesforce Developer Org.
