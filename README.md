@@ -496,6 +496,16 @@ Salesforce Home Page after login.
 - Predictive Admission Analytics using AI
 
 ---
+## 👥 Team Members
+
+- **Shaik Mubeena** – Project Developer
+- Edmakanti Ranga Pravallika
+- Rahul Kandiboti
+- Kovuru Venkata Rohith
+- Chithini Sai Mohan
+## 🎥 Demo Video
+
+🎬 **Project Demo:** [Watch Demo Video](https://drive.google.com/file/d/1yuTmYgTGcgyYIvTVEretgSJEJWozv5Vh/view)
 
 # 👩‍💻 Author
 
@@ -521,9 +531,9 @@ GitHub: **https://github.com/ShaikMubeena1223**
 
 - AICTE
 - SmartBridge
-- Salesforce
-- Agentforce
-- Mohan Babu University
+- Salesforce Trailhead
+- Salesforce Developer Documentation
+- Salesforce Platform
 
 ---
 
