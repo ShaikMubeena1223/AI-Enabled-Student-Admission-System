@@ -177,147 +177,208 @@ AI-Enabled-Student-Admission-System/
 
 ### 1. Login Page
 Displays the Salesforce login page.
-![Login Page](login1.png)
 
-### 2. Salesforce Home
-Landing page after successful login.
+![Login Page](Outputs%20Screenshots/login1.png)
 
-### 3. App Launcher
-Shows all Salesforce applications.
 
-### 4. App Manager
-Displays the custom Student Admission application.
+### 2. Hands-on Org
+Displays the Salesforce Developer Org.
 
-### 5. Custom Objects
-Student, Course, and Admission objects.
+![Hands-on Org](Outputs%20Screenshots/handsonorg2.png)
 
-### 6. Student Object
-Student object creation.
 
-### 7. Student Fields
-Custom fields inside Student object.
+### 3. Home Page
+Salesforce Home Page after login.
 
-### 8. Course Object
-Course object creation.
+![Home Page](Outputs%20Screenshots/home3.png)
 
-### 9. Course Fields
-Custom fields inside Course object.
 
-### 10. Admission Object
-Admission object creation.
+### 4. Admission Object
+Admission custom object.
 
-### 11. Admission Fields
+![Admission](Outputs%20Screenshots/admission4.png)
+
+### 5. Admission Details
+Admission object details.
+
+![Admission Details](Outputs%20Screenshots/admissiondetails5.png)
+
+### 6. Admission Fields
 Admission custom fields.
 
-### 12. Lookup Relationships
-Relationship between Student and Course.
+![Admission Fields](Outputs%20Screenshots/admissionfields6.png)
 
-### 13. Page Layout
-Customized page layout.
+### 7. Admission Fields Example
 
-### 14. Lightning Record Page
-Lightning Record Page customization.
+![Admission Fields Example](Outputs%20Screenshots/admissionfieldsex7.png)
 
-### 15. Dynamic Forms
-Dynamic Forms configuration.
+### 8. Admission Page Layout
 
-### 16. Record Types
-Record Type configuration.
+![Page Layout](Outputs%20Screenshots/pagelayout8.png)
 
-### 17. Validation Rules
-Validation Rules implementation.
+### 9. Lightning Record Page
 
-### 18. Flow Builder
-Automation Flow.
+![Lightning Record Page](Outputs%20Screenshots/lightingpage9.png)
 
-### 19. Record Creation Flow
-Automatic record creation.
+### 10. Custom Buttons
 
-### 20. Record Update Flow
-Record update automation.
+![Buttons](Outputs%20Screenshots/buttons10.png)
 
-### 21. Email Alerts
-Email notification configuration.
+### 11. Validation Rules
 
-### 22. Approval Process
-Admission approval workflow.
+![Validation Rules](Outputs%20Screenshots/validationrules11.png)
 
-### 23. Approval Steps
-Approval routing process.
+### 12. Validation Rule Example
 
-### 24. Submit for Approval
-Admission submission.
+![Validation Rule Example](Outputs%20Screenshots/validationrulesexample12.png)
 
-### 25. Approval History
-Approval tracking.
+### 13. Student Page Layout
 
-### 26. Agentforce AI
-AI Agentforce setup.
+![Student Page Layout](Outputs%20Screenshots/studentpagelayout13.png)
 
-### 27. AI Automation
-Automation using Agentforce.
+### 14. Student Object
 
-### 28. Student Record
-Sample Student record.
+![Student](Outputs%20Screenshots/student14.png)
 
-### 29. Course Record
-Sample Course record.
+### 15. Student Fields
 
-### 30. Admission Record
-Sample Admission record.
+![Student Fields](Outputs%20Screenshots/studentfields15.png)
 
-### 31. Related Lists
-Relationship between records.
+### 16. Student Fields Example
 
-### 32. Object Manager
-Object Manager overview.
+![Student Fields Example](Outputs%20Screenshots/studentfieldsexample16.png)
 
-### 33. Reports
-Admission Reports.
+### 17. Student Page Layout Example
 
-### 34. Dashboard
-Admission Dashboard.
+![Student Page Layout](Outputs%20Screenshots/studentpagelayout17.png)
 
-### 35. User Profile
-User profile configuration.
+### 18. Student Validation Rules
 
-### 36. Permission Set
-Permission Set configuration.
+![Student Validation Rules](Outputs%20Screenshots/studentvalidationrules18.png)
 
-### 37. Role Hierarchy
-Role hierarchy setup.
+### 19. Student Validation Rule Example
 
-### 38. Test Record 1
-Sample testing record.
+![Student Validation Rule Example](Outputs%20Screenshots/studentvalidationrulesexample19.png)
 
-### 39. Test Record 2
-Additional testing record.
+### 20. Course Object
 
-### 40. Email Notification
-Approval email notification.
+![Course](Outputs%20Screenshots/course20.png)
 
-### 41. Record Approval
-Approved admission record.
+### 21. Course Details
 
-### 42. System Workflow
-Complete workflow diagram.
+![Course Details](Outputs%20Screenshots/coursedetails21.png)
 
-### 43. Architecture Diagram
-Project architecture.
+### 22. Course Fields
 
-### 44. ER Diagram
-Entity Relationship Diagram.
+![Course Fields](Outputs%20Screenshots/coursefields22.png)
 
-### 45. Final Output
-Final application output.
+### 23. Course Fields Example
 
-### 46. Project Result
-Completed project result.
+![Course Fields Example](Outputs%20Screenshots/coursefieldsexample23.png)
 
-### 47. Project Completion
-Successfully completed Salesforce application.
+### 24. Course Validation Rule
 
----
+![Course Validation Rule](Outputs%20Screenshots/coursevalidationrule24.png)
+
+### 25. Course Validation Rule Example
+
+![Course Validation Rule Example](Outputs%20Screenshots/coursevalidationruleexample25.png)
+
+### 26. Admission Flow
+
+![Admission Flow](Outputs%20Screenshots/admissionflow26.png)
+
+### 27. Admission Flow Example
+
+![Admission Flow Example](Outputs%20Screenshots/admissionflowexample27.png)
+
+### 28. Tabs
+
+![Tabs](Outputs%20Screenshots/tabs28.png)
+
+### 29. Users
+
+![Users](Outputs%20Screenshots/users28.png)
+
+### 30. User Details
+
+![User Details](Outputs%20Screenshots/usersopen29.png)
+
+### 31. Duplicate Rules
+
+![Duplicate Rules](Outputs%20Screenshots/duplicaterules30.png)
+
+### 32. Matching Rules
+
+![Matching Rules](Outputs%20Screenshots/matchingrule31.png)
+
+### 33. Approval Process
+
+![Approval Process](Outputs%20Screenshots/approvalprocess32.png)
+
+### 34. Approval Process Configuration
+
+![Approval Process Configuration](Outputs%20Screenshots/approvalprocess33.png)
+
+### 35. Email Template
+
+![Email Template](Outputs%20Screenshots/emailtemplate34.png)
+
+### 36. Profiles
+
+![Profiles](Outputs%20Screenshots/profiles35.png)
+
+### 37. Manager Profile
+
+![Manager Profile](Outputs%20Screenshots/profilesmanager36.png)
+
+### 38. Admission Officer Profile
+
+![Admission Officer Profile](Outputs%20Screenshots/profilesofficer37.png)
+
+### 39. Roles
+
+![Roles](Outputs%20Screenshots/roles38.png)
+
+### 40. Role Hierarchy
+
+![Role Hierarchy](Outputs%20Screenshots/roles39.png)
+
+### 41. Project Application
+
+![Project Application](Outputs%20Screenshots/projectapp40.png)
+
+### 42. Student Application Example
+
+![Student Application](Outputs%20Screenshots/appstudentexample41.png)
+
+### 43. Course Application
+
+![Course Application](Outputs%20Screenshots/appcourse41.png)
+
+### 44. Course Application Example
+
+![Course Application Example](Outputs%20Screenshots/appcourseexample42.png)
+
+### 45. Admission Application
+
+![Admission Application](Outputs%20Screenshots/appadmission43.png)
+
+### 46. Admission Application Example
+
+![Admission Application Example](Outputs%20Screenshots/appadmissionexample44.png)
+
+### 47. Approval History
+
+![Approval History](Outputs%20Screenshots/appapprovalhistory45.png)
+
+### 48. Student Error Validation
+
+![Student Error](Outputs%20Screenshots/studenterror46.png)
+
+### 49. Dynamic Forms
+
+![Dynamic Forms](Outputs%20Screenshots/dynamicformadmission47.png)
 
 # 🚀 How to Run
 
