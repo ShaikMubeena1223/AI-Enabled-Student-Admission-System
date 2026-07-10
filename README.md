@@ -505,7 +505,7 @@ Salesforce Home Page after login.
 - Chithini Sai Mohan
 ## 🎥 Demo Video
 
-🎬 **Project Demo:** [Watch Demo Video](https://drive.google.com/file/d/1yuTmYgTGcgyYIvTVEretgSJEJWozv5Vh/view)
+🎬 **Project Demo:** [Watch Demo Video](https://drive.google.com/file/d/1yuTmYgTGcgyYIvTVEretgSJEJWozv5Vh/view?usp=sharing)
 
 # 👩‍💻 Author
 
